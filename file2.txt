@@ -1,1 +1,2 @@
 hello from the devops world
+I'm editing this file to understand how pool SCM works in jenkins
